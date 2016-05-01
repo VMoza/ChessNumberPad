@@ -8,12 +8,6 @@ path of a chess piece on a telephone keypad, specifically the Knight.
 I created a base program that was extended to all chess pieces, not just the Knight.
 
 Essentially the problem asks to start out on a standard number pad, and move like a chess piece (aka the Knight can move two down and 1 right, etc), to create a 10 digit phone number. The code should return the total number of possible 10 digit phone numbers having traced the pad as a certain chess piece.
-
-Number Pad:
-1 2 3
-4 5 6
-7 8 9
-* 0 #
  
 Like normal phone numbers, the 10 digit phone number cannot begin with 0 or 1, and the chess piece should never land on a * or a #, as this is considered invalid.
 
