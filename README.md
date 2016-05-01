@@ -14,10 +14,15 @@ Like normal phone numbers, the 10 digit phone number cannot begin with 0 or 1, a
 I decided to extend the problem not only to encompass all chess pieces, but to provide user input for the starting position as well. 
 
 Below is sample output given the starting number of '2'.
+
 King:   1898811
+
 Queen:  23034942
+
 Rook:   349622
+
 Bishop: 534
+
 Knight: 1424
 
 
