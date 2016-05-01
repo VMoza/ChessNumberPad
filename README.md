@@ -11,6 +11,16 @@ Essentially the problem asks to start out on a standard number pad, and move lik
  
 Like normal phone numbers, the 10 digit phone number cannot begin with 0 or 1, and the chess piece should never land on a * or a #, as this is considered invalid.
 
+Number Pad:
+
+1  2  3
+
+4  5  6
+
+7  8  9 
+
+*  0  #
+
 I decided to extend the problem not only to encompass all chess pieces, but to provide user input for the starting position as well. 
 
 Below is sample output given the starting number of '2'.
